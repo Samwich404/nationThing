@@ -1,14 +1,53 @@
 # nation bot  
 this bot will handle the everything for project Aevum  
 ## ids  
+### religon law  
+state = 0
+private = 1
+secular = 2
 ### religon  
 none = 0  
 Christine = 1  
-add as new ones are made  
+GigaChadism = 2  
+The Followers of Hephaestus = 3  
+Protestant = 4  
+The Followers of Vanmir = 5  
+Culte de I'Etre suprême = 6  
 ### culture  
 none = 0  
 Bouclieristic = 1  
-add as new ones are made  
+Moroccan = 2  
+Wamosh = 3  
+Healers of Selene = 4  
+French = 5  
+Lerian = 6  
+Uhnir = 7  
+GigaChadism = 8  
+Adga = 9  
+Yusgu = 10  
+Hephaemic = 11  
+Turkish = 12  
+Followers of Vamnir = 13  
+Xenophiloca = 14  
+Armenian = 15  
+Arcatie = 16  
+Ize = 17  
+Dutch = 18  
+Consumer = 19  
+Kattosanism = 20  
+Astanian = 21  
+Tanu = 22  
+Ramlet = 23  
+British = 24  
+Mumtox = 25  
+Danish = 26  
+Setan = 27  
+Dunian = 28  
+Swedish = 29  
+Arborian = 30  
+Greek = 31  
+Canadian = 32  
+Icelandic = 33  
 ### buildings  
 farm = 0  
 mine = 1  
@@ -32,9 +71,9 @@ Anarchism = 0
 Democracy = 1  
 Oligarchy = 2  
 Dictatorship = 3  
-Totalitarianism = 4
+Totalitarianism = 4  
 Monarchy = 5  
-Rebellion = 6
+Rebellion = 6  
 ### ideology  
 Communism = 0  
 Corporatism = 1  
